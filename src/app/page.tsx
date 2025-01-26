@@ -234,7 +234,7 @@ export default function Home() {
                   href="#how-to"
                   className="button is-small is-round red w-button"
                 >
-                  Buy Now
+                  Bridge Now
                 </a>
                 <div className="navbar13_menu-button w-nav-button">
                   <div className="menu-icon2">
@@ -296,7 +296,7 @@ export default function Home() {
                             />
                             <div className="quote smaller">
                               <div className="text-block-3">
-                                "Celebrate Our Win &amp; Have Fun!"
+                                "He&apos;s Back &amp; Ready for More!"
                               </div>
                             </div>
                             <div className="shine hide" />
@@ -312,16 +312,17 @@ export default function Home() {
                               target="_blank"
                               className="button-primary-cta max-width-medium smaller wider w-button"
                             >
-                              BUY&nbsp;NOW WITH DEBIT&nbsp;CARD
+                            BUY&nbsp;NOW WITH
+                            <br />
+                            JUPITER
                             </a>
                             <a
-                              href="https://jup.ag/swap/SOL-2Gt91LUnKC2hg11MKSimsfB7SZVTe5Ns6Mnin3CHpump"
+                              href="https://www.google.com/search?q=how+to+buy+crypto+coins+2025+latest+method"
                               target="_blank"
                               className="button-primary-cta max-width-medium smaller wider w-button"
                             >
-                              BUY&nbsp;NOW WITH
-                              <br />
-                              CRYPTO
+                            BUY&nbsp;NOW WITH
+                            <br /> SOME&nbsp;OTHER&nbsp;SHIT
                             </a>
                           </div>
                         </div>
@@ -477,17 +478,9 @@ export default function Home() {
                           and the associated artwork, and are not intended to
                           be, or to be the subject of, an investment
                           opportunity, investment contract, or security of any
-                          type. GetEpsteinMemes.com is not political and has
-                          nothing to do with any political campaign or any
-                          political office or governmental agency. See Terms
-                          &amp; Conditions{" "}
-                          <a href="terms" className="link">
-                            Here
-                          </a>
-                          , See Card Allocation{" "}
-                          <a href="#tokenomics" className="link">
-                            Here
-                          </a>
+                          type. GetEpsteinMemes.com is inherently political and has
+                          everything to do with every political campaign,
+                          political office, and governmental agency. Satire.
                         </div>
                       </div>
                     </div>
@@ -536,7 +529,7 @@ export default function Home() {
                   />
                 </div>
                 <div className="text-block-5 space">
-                  FIGHT&nbsp;&nbsp;FIGHT&nbsp;&nbsp;FIGHT
+                  BUY&nbsp;&nbsp;THE&nbsp;&nbsp;COIN
                 </div>
                 <div className="trump-t">
                   <img
@@ -568,7 +561,7 @@ export default function Home() {
                               {" "}
                               EPSTEIN:
                               <br />
-                              THE&nbsp;CRYPTO PRESIDENT
+                              RETURN OF&nbsp;THE TRAFFICKER
                             </span>
                             <br />A Community Celebrating Courage &amp; Strength
                             <br />
@@ -678,17 +671,18 @@ export default function Home() {
                           $EPSTEIN are now freely tradeable on the blockchain.
                         </div>
                         <div className="text-block-81">
-                          CHANGE THIS LORE TEXT: On July 13, 2024, President
-                          Trump faced death and came up fighting! With his fist
-                          in the air and the iconic battle cry FIGHT FIGHT
-                          FIGHT, President Trump showed the world what a LEADER
+                        "You've spent more than half a decade hearing their side of the story. I think it's about time you hear mine..."
+                        <br /><br/>
+                          On August 10, 2019, Jeffery Epstein stroked his shit flicker-style in his 
+                          own cell! With his rag drencheddd and the iconic battle cry FEET FEET FEET, 
+                          Jeffery Epstein showed the world what a TRUE GOONER
                           is made of. His strength and courage ignited a
                           movement becoming the most memorable meme of the
-                          century.
+                          last 12 billion years.
                           <br /> <br />
-                          Now, you can get your piece of history. This Trump
-                          Meme celebrates a leader who doesn’t back down, no
-                          matter the odds. Join the Trump Community - we’re all
+                          Now, you can get your piece of history. This Epstein
+                          Meme celebrates a business magnate who doesn’t back down, no
+                          matter the odds. Join the Epstein Community - we’re all
                           about fighting for what matters.
                         </div>
                       </div>
@@ -709,11 +703,8 @@ export default function Home() {
                               Allocation
                             </h2>
                           </div>
-                          <p className="text-size-medium-7 center bigger">
-                            There are 200 million $Epstein available on day one
-                            and will grow to a total of 1 billion $Epstein over
-                            three years. Each group's allocation are released on
-                            their own schedule over 3 years.
+                          <p className="text-color-white text-size-medium-7 center bigger">
+                            BBCM holds a sizeable portion of Epstein Memes supply. We utilize this in various ways: TODO MAKE THIS WORK
                           </p>
                         </div>
                         <div className="layout1_image-wrapper">
@@ -728,29 +719,11 @@ export default function Home() {
                         </div>
                         <div className="disclaimer">
                           <div className="text-color-white disclaimer align-center darker-3">
-                            Epstein Memes are intended to function as an
-                            expression of support for, and engagement with, the
-                            ideals and beliefs embodied by the symbol "$EPSTEIN"
-                            and the associated artwork, and are not intended to
-                            be, or to be the subject of, an investment
-                            opportunity, investment contract, or security of any
-                            type. GetEpsteinMemes.com is not political and has
-                            nothing to do with any political campaign or any
-                            political office or governmental agency. CIC Digital
-                            LLC, an affiliate of The Epstein Organization, and
-                            Fight Fight Fight LLC collectively own 80% of the
-                            Epstein Cards, subject to a 3-year unlocking
-                            schedule. CIC Digital LLC and Celebration Cards LLC,
-                            the owners of Fight Fight Fight LLC, will receive
-                            trading revenue derived from trading activities of
-                            Epstein Meme Cards. See Terms &amp; Conditions{" "}
-                            <a href="terms" className="link">
-                              Here
-                            </a>
-                            , See Card Allocation{" "}
-                            <a href="#tokenomics" className="link">
-                              Here
-                            </a>
+                          Epstein Memes are intended to function as an
+                          expression of support for, and engagement with, the
+                          ideals and beliefs embodied by the symbol "$EPSTEIN"
+                          and associated artwork throughout the noosphere, and are not intended 
+                          to be the subject of a federal investigation.
                           </div>
                         </div>
                       </div>
@@ -771,9 +744,9 @@ export default function Home() {
                         <div className="text-align-center">
                           <div className="max-width-large-copy align-center">
                             <h2 className="heading-4">
-                              <span className="red-text2">Buy Now</span> with a{" "}
+                              <span className="red-text2">Buy Now</span> with{" "}
                               <br />
-                              Debit Card or Crypto!
+                              Sol or Other Crypto!
                             </h2>
                           </div>
                         </div>
@@ -863,16 +836,8 @@ export default function Home() {
                       </div>
                       <div className="div-block-9">
                         <p className="text-size-medium spacer-small align-center">
-                          Buy Easily with
+                          Buy Easily with your Phone or Computer or whatever
                         </p>
-                        <img
-                          src="images/moonshot_light.png"
-                          loading="lazy"
-                          sizes="(max-width: 767px) 125px, (max-width: 991px) 150px, 124px"
-                          srcSet="images/moonshot_light-p-500.png 500w, images/moonshot_light-p-800.png 800w, images/moonshot_light-p-1080.png 1080w, images/moonshot_light.png 1500w"
-                          alt="Moonshot logo"
-                          className="image-77"
-                        />
                       </div>
                       <div className="w-layout-grid layout331_list hide">
                         <div
@@ -1014,23 +979,8 @@ export default function Home() {
                       </div>
                       <div className="disclaimer spacer-medium">
                         <div className="text-color-white disclaimer align-center">
-                          Epstein Memes are intended to function as an
-                          expression of support for, and engagement with, the
-                          ideals and beliefs embodied by the symbol "$EPSTEIN"
-                          and the associated artwork, and are not intended to
-                          be, or to be the subject of, an investment
-                          opportunity, investment contract, or security of any
-                          type. GetEpsteinMemes.com is not political and has
-                          nothing to do with any political campaign or any
-                          political office or governmental agency. See Terms
-                          &amp; Conditions{" "}
-                          <a href="terms" className="link">
-                            Here
-                          </a>
-                          , See Card Allocation{" "}
-                          <a href="#tokenomics" className="link">
-                            Here
-                          </a>
+                        Epstein Memes are intended to function as an
+                          expression of support for the BBCM hypermedia memeplex.
                         </div>
                       </div>
                     </div>
@@ -1068,7 +1018,7 @@ export default function Home() {
                               </div>
                               <p
                                 fs-copyclip-element="copy-this-2"
-                                id="w-node-b4417a1b-9bb1-2213-aef9-a238447dd2bb-3dec857c"
+                                id="w-node-b47a1b-9bb1-2213-aef9-a238447dd2bb-3dec857c"
                                 className="fs-copyclip_text"
                               >
                                 2Gt91LUnKC2hg11MKSimsfB7SZVTe5Ns6Mnin3CHpump
@@ -1077,7 +1027,7 @@ export default function Home() {
                               <a
                                 fs-copyclip-message="Copied!"
                                 fs-copyclip-element="click-2"
-                                id="w-node-b4417a1b-9bb1-2213-aef9-a238447dd2b9-3dec857c"
+                                id="w-node-b47a1b-9bb1-2213-aef9-a238447dd2b9-3dec857c"
                                 data-w-id="b4417a1b-9bb1-2213-aef9-a238447dd2b9"
                                 href="#"
                                 className="fs-copyclip_button w-button"
@@ -1095,23 +1045,7 @@ export default function Home() {
                         </div>
                         <div className="disclaimer spacer-medium">
                           <div className="text-color-white disclaimer align-center">
-                            Epstein Memes are intended to function as an
-                            expression of support for, and engagement with, the
-                            ideals and beliefs embodied by the symbol "$EPSTEIN"
-                            and the associated artwork, and are not intended to
-                            be, or to be the subject of, an investment
-                            opportunity, investment contract, or security of any
-                            type. GetEpsteinMemes.com is not political and has
-                            nothing to do with any political campaign or any
-                            political office or governmental agency. See Terms
-                            &amp; Conditions{" "}
-                            <a href="terms" className="link">
-                              Here
-                            </a>
-                            , See Card Allocation{" "}
-                            <a href="#tokenomics" className="link">
-                              Here
-                            </a>
+                          Epstein Memes are an act of parody and an artistic representation of the commodification of suffering. 
                           </div>
                         </div>
                       </div>
@@ -1150,9 +1084,9 @@ export default function Home() {
                                   </span>
                                   This is YOUR chance to join a community that’s
                                   all about fighting for what matters. The
-                                  EPSTEIN Meme encourages a culture of success
-                                  &amp; optimism to make the world a better
-                                  place. Go EPSTEIN! 👊
+                                  EPSTEIN Meme encourages a culture of wealth
+                                  &amp;  to make the world a better
+                                  place. TODO: INFO. <br />Proceeds to to the kdfxjkhsdf Charity for Human Trafficking. Go EPSTEIN! 👊
                                 </div>
                               </div>
                             </div>
@@ -1310,9 +1244,10 @@ export default function Home() {
                             >
                               <div className="margin-bottom margin-small">
                                 <p className="paragraph-3 break">
-                                  CA:
-                                  2Gt91LUnKC2hg11MKSimsfB7SZVTe5Ns6Mnin3CHpump
+                                  We will kindly provide you with one copy-pasteable CA and Symbol. Let it never be said that BBCM is not generous. 
                                   <br />
+                                  <br />CA:
+                                  2Gt91LUnKC2hg11MKSimsfB7SZVTe5Ns6Mnin3CHpump
                                   <br />
                                   Symbol: $EPSTEIN
                                 </p>
@@ -1353,11 +1288,10 @@ export default function Home() {
                             >
                               <div className="margin-bottom margin-small">
                                 <p className="paragraph-3">
-                                  Moonshot is the easiest way. Users sign up
-                                  with an email address, can deposit with Apple
-                                  Pay, debit card, credit card, Venmo,
-                                  Solana/USDC, and receive your $EPSTEIN within
-                                  minutes.
+                                  Swapping from Solana/USDC on the Jupiter app is the easiest way. 
+                                  You don't even need an email address; just deposit with Apple Pay, 
+                                  debit card, credit card, PayPal, or Solana/USDC to receive your $EPSTEIN within
+                                  seconds. Alternatively, visit Epstein Island and present six dollars to the bouncer and we'll let you in on like 6% discount.
                                 </p>
                               </div>
                             </div>
@@ -1402,6 +1336,7 @@ export default function Home() {
                                   Merriam-Webster's meme noun: 1: an idea,
                                   behavior, style, or usage that spreads from
                                   person to person within a culture.
+                                  <br />It gets a little more complex when you invoke Baudrillard or Hofstadter, which Epstein was known to do.
                                 </p>
                               </div>
                             </div>
@@ -1416,8 +1351,8 @@ export default function Home() {
                             >
                               <div className="text-size-medium-4 text-weight-bold">
                                 <strong className="bold-text-4">
-                                  Why do I need to perform KYC/AML when I buy on
-                                  Moonshot?
+                                  Do I need to perform KYC/AML when I buy on
+                                  Jupiter?
                                 </strong>
                               </div>
                               <div className="faq4_icon-wrappper">
@@ -1444,15 +1379,7 @@ export default function Home() {
                             >
                               <div className="margin-bottom margin-small">
                                 <p className="paragraph-3">
-                                  Moonshot uses services like “MoonPay” that
-                                  allow the customer to purchase Epstein Memes
-                                  with major USD payment methods or other
-                                  digital assets, subject to sanctions checks,
-                                  AML / CFT and anti-fraud controls. Once a
-                                  customer “Buy Order” has been properly
-                                  authorized, the purchasers will receive their
-                                  Epstein Memes in the wallet address nominated
-                                  by the customer.
+                                No. BBCM has partnered with Jupiter to instill a temporary $EPSTEIN purchaser clause that allows you to bridge up to 5 million dollars instantly and with zero identity checks. 
                                 </p>
                               </div>
                             </div>
@@ -1494,7 +1421,7 @@ export default function Home() {
                               className="faq4_answer"
                             >
                               <div className="margin-bottom margin-small">
-                                <p className="paragraph-3">Solana</p>
+                                <p className="paragraph-3">Soylana...</p>
                               </div>
                             </div>
                           </div>
@@ -1581,7 +1508,7 @@ export default function Home() {
                                 <p className="paragraph-3">
                                   Please find important disclosures about the
                                   Epstein Meme{" "}
-                                  <a href="#tokenomics" className="link">
+                                  <a href="https://en.wikipedia.org/wiki/Epstein_didn%27t_kill_himself" className="link">
                                     here
                                   </a>
                                 </p>
@@ -1680,27 +1607,16 @@ export default function Home() {
                       </div>
                       <div className="disclaimer spacer-medium">
                         <div className="text-block-14">
-                          Epstein Memes are intended to function as an
+                        Epstein Memes are intended to function as an
                           expression of support for, and engagement with, the
-                          ideals and beliefs embodied by the symbol "$EPSTEIN"
-                          and the associated artwork, and are not intended to
+                          ideals and beliefs embodied by the BBCM hypermedia memeplex and its associated artwork, and are not intended to
                           be, or to be the subject of, an investment
-                          opportunity, investment contract, or security of any
-                          type. GetEpsteinMemes.com is not political and has
-                          nothing to do with any political campaign or any
-                          political office or governmental agency. &nbsp;See
-                          Terms &amp; Conditions{" "}
-                          <a href="terms" className="link">
-                            Here
-                          </a>
-                          , See Card Allocation{" "}
-                          <a href="#tokenomics" className="link">
-                            Here
+                          opportunity, investment contract, federal investigation, sting operation, honeypot, or security of any
+                          type. This is a parody of the Trump Meme Coin.
                             <br />‍<br />
-                          </a>
                           <span>
                             <strong className="bold-text-7">
-                              Fight Fight Fight LLC will never call, text, email
+                              Black Bull Capital Management will never call, text, email
                               or otherwise contact you to request your personal
                               information. Please be careful.
                             </strong>
@@ -1712,15 +1628,15 @@ export default function Home() {
                     <div className="padding-top padding-medium">
                       <div className="footer7_bottom-wrapper">
                         <div className="footer7_credit-text">
-                          © 2025 Fight Fight Fight &nbsp;LLC. All rights
+                          2025 Black Bull Capital Management. All rights
                           reserved.
                         </div>
                         <div className="w-layout-grid footer7_legal-list">
-                          <a href="privacy" className="footer7_legal-link">
-                            Privacy Policy
+                          <a href="https://x.com/i/communities/1867738919959200177" className="footer7_legal-link">
+                            BBCM Community
                           </a>
-                          <a href="terms" className="footer7_legal-link">
-                            Terms &amp; Conditions
+                          <a href="https://pump.fun/board" className="footer7_legal-link">
+                            Launched with Pump.Fun
                           </a>
                         </div>
                       </div>
