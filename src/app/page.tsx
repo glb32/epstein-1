@@ -746,7 +746,7 @@ export default function Home() {
                             <h2 className="heading-4">
                               <span className="red-text2">Buy Now</span> with{" "}
                               <br />
-                              Sol or Other Crypto!
+                              SOL or USDC!
                             </h2>
                           </div>
                         </div>
